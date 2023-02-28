@@ -1,4 +1,27 @@
 
 
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    height: 50rem;
+    padding-left: 30rem;
+    padding-right: 30rem;
+}
+
+button {
+    flex: 1;
+    padding: 30px;
+    background-color: yellowgreen;
+    font-weight: bold;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    
+    
+}
+
 
 
